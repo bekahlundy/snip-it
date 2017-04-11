@@ -1,5 +1,6 @@
-
-# Blogs
+# Snip-It
+Snip it is an Electron application. We used Electron, React and ES6. It is a screenshot capturing app that will save your screenshots to a folder on your desktop. You can make a new folder and re name you photos. Just click the scissors in your menubar and get started!
+## Blogs
 
 ### Mike Limberg
 * [Electon: First Impressions](https://medium.com/@limbergmike/electron-first-impressions-43ce4942df17)
